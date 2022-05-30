@@ -19,21 +19,23 @@ We rate the Decision Drivers by School grades (1 best and 6 worst)
 
 | Decision Driver       | Importance |
 |-----------------------|------------|
-| Less Costs            |            | 
-| Ergonomic and health  |            | 
-| Gaming                |            | 
-| Video editing         |            | 
-| Office Working        |            | 
-| Usable for Studying   |            | 
-| Design and Clean look |            | 
-| Usable parallel       |            |
+| Less Costs            | 2          | 
+| Ergonomic and health  | 1          | 
+| Gaming                | 4          | 
+| Video editing         | 3          | 
+| Office Working        | 2          | 
+| Usable for Studying   | 3          | 
+| Design and Clean look | 2          | 
+| Usable parallel       | 3          |
 
 ## Decision Outcome
+For the <strong>Amount of Monitors</strong> we decide for Option M:1, because of the costs and better fitting to our Decision Driver. We could upgrade
+to a tow monitor setup later if needed. 
 
 ## Considered Options
 
 ### Amount of Monitors
-
+The assumption is that more screen space would enable more efficiency for the most use-cases.
 #### Option M:1 
 This option is about to use only one bigger Monitor for the co-working office.
 #### Positive on this option
@@ -42,13 +44,52 @@ This option is about to use only one bigger Monitor for the co-working office.
 * Empty Space on the Desk left (usable for other things)
 * One bigger monitor is better for video editing
 #### negative on this option
+* One fits all solution needed (Fewer choices)
+* 2nd person needs to work on pure laptop for sure
+* Does not allow parallel use
 
 ### Option M:2 
-This option is about to use only two Monitors for the co-working office.
-#### This option is about
+This option is about to use two monitors for the co-working office.
 #### Positive on this option
+* Easier to split windows on different screen
+* Could use different screens for different use-cases
+* Could exchange one monitor by better fitting and keeping the old one
+* Second person could use the 2nd monitor (parallel use)
+#### negative on this option
+* Desktop is more filled (less space fo other things)
+* More expensive for monitors (2 Monitors cost more than 1) more or better equipment needed (desktop stands, cables and docking station)
+* More cables to manage (messy look)
+* More technical complexity (maintenance effort by replacing parts or finding issues)
+* Half of the time no need of this working efficiency (inefficient)
+
+### Option M:3
+This option is about to use only the laptop build in monitor.
+#### Positive on this option
+* Lowest costs possible
+* Clean Desktop (nice look)
+* Lowest maintenance Effort
+
+#### negative on this option
+* Not efficient for working
+* Not efficient for studying
+* Not efficient for video editing
+* Use case of Gaming hard limited
+* Need of Laptop stand for ergonomic and also then limited
+* Does not allow parallel use
+
+### Docking station
+
+### Option D:1
+This option is about to use no docking station at all.
+#### Positive on this option
+
+
 #### negative on this option
 
+### Option D:2
+
+#### Positive on this option
 
 
+#### negative on this option
  
