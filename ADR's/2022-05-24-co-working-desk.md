@@ -1,4 +1,4 @@
-# Setup of co-working desk 
+# Setup of co-working desk
 * Date: 2022-05-24
 
 ## Context and Problem Statement
@@ -6,7 +6,7 @@ I am living in two places at the moment. In my main department I have a home off
 sharing it with my girlfriend. She needs a place to learn online and for me, it is an office space mainly. In addition, we
 want to use this place to game and for Video editing.
 
-As base, we have normal Desk out of wood from Ikea and two existing chairs in cheaper quality. We use two 
+As base, we have normal Desk out of wood from Ikea and two existing chairs in cheaper quality. We use two
 windows laptops and one Macbook. The room we want to build up this co-working desk is in a WG with an extra room, which could
 be used also by one of use if we are too noisy (during meetings).
 
@@ -30,13 +30,13 @@ We rate the Decision Drivers by School grades (1 best and 6 worst)
 
 ## Decision Outcome
 For the <strong>Amount of Monitors</strong> we decide for Option M:1, because of the costs and better fitting to our Decision Driver. We could upgrade
-to a tow monitor setup later if needed. 
+to a tow monitor setup later if needed.
 
 ## Considered Options
 
 ### Amount of Monitors
 The assumption is that more screen space would enable more efficiency for the most use-cases.
-#### Option M:1 
+#### Option M:1
 This option is about to use only one bigger Monitor for the co-working office.
 #### Positive on this option
 * Less Costs
@@ -48,7 +48,7 @@ This option is about to use only one bigger Monitor for the co-working office.
 * 2nd person needs to work on pure laptop for sure
 * Does not allow parallel use
 
-### Option M:2 
+### Option M:2
 This option is about to use two monitors for the co-working office.
 #### Positive on this option
 * Easier to split windows on different screen
